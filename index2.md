@@ -1,5 +1,5 @@
 ---
-title: Home2
+title: Famille Armand
 layout: home
 ---
 
